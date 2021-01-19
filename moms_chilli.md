@@ -1,5 +1,17 @@
 # Mom's Chilli
 
+| Amount           | Ingredient   |
+| ---------------- | :----------- |
+| 1 tablespoon     | arrowroot    |
+| 1/3 cup          | paprika      |
+| 1/2 tablespoon   | salt         |
+| 1/4 tablespoon   | red pepper   |
+| 1 1/3 tablespoon | cumin        |
+| 1 1/2 tablespoon | onion flakes |
+| 1 can (~16 oz)   | kidney beans |
+| 2 lbs            | ground beef  |
+| 8 oz             | tomato paste |
+
 ## 1. Make chili spice in a bowl
 
     1. 1/3 cup of Paprika (a little more better than a little less)
