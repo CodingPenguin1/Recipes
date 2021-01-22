@@ -1,4 +1,4 @@
-# Cauliflower Potato Salad
+# Cauliflower Egg Salad
 
 | Amount          | Ingredient                |
 | --------------- | :------------------------ |
