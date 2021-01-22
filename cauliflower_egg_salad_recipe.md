@@ -1,5 +1,9 @@
 # Cauliflower Egg Salad
 
+![Cauliflower Egg Salad](https://github.com/CodingPenguin1/Recipes/blob/main/cauliflower_egg_salad.jpg)
+
+## Ingredients
+
 | Amount          | Ingredient                |
 | --------------- | :------------------------ |
 | 1 head          | cauliflower               |
