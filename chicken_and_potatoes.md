@@ -7,7 +7,7 @@
 | Amount | Ingredient                          |
 | ------ | :---------------------------------- |
 | 2 lbs  | red potatoes (1/2-in cubes          |
-| 3 tbsp | butter                              |
+| 3 T    | butter                              |
 | 1/3 C  | grated parmesan cheese              |
 | 1/4 C  | choppped flat-leaf parsley          |
 | 3 t    | EVOO                                |
@@ -20,15 +20,15 @@
 
 ## 1. Potatoes
 
-Preheat oven to 400. In a large pot, combine the potatoes and salted water to cover by 1 inch. Bring to a boil and cook until fork-tender, 6 to 8 minutes. Drain and return the potatoes to the pot. Toss with 2 tbsp butter, the parmesan, and parsley; season with salt and power. Cover to kep warm.
+Preheat oven to 400. In a large pot, combine the potatoes and salted water to cover by 1 inch. Bring to a boil and cook until fork-tender, 6 to 8 minutes. Drain and return the potatoes to the pot. Toss with 2 T butter, the parmesan, and parsley; season with salt and power. Cover to kep warm.
 
 ## 2. Chicken
 
-Meanwhile, in a large skillet, heat 2 tbsp EVOO over a medium-high heat. Season the chicken and cook, turning once, until golden-brown, about 5 minutes. Transfer to a baking dish; roast until cooked through, about 10 minutes.
+Meanwhile, in a large skillet, heat 2 T EVOO over a medium-high heat. Season the chicken and cook, turning once, until golden-brown, about 5 minutes. Transfer to a baking dish; roast until cooked through, about 10 minutes.
 
 ## 3. Onions
 
-In the same skillet, heat the remaining 1 tbsp each butter and EVOO over medium heat. Stir in the onions and vinegar and season with salt; cook, stirring occasionally, until the onions are caramelized, about 15 minutes. At the end, stir in 1/4 cup water and scrape up any browned bits.
+In the same skillet, heat the remaining 1 T each butter and EVOO over medium heat. Stir in the onions and vinegar and season with salt; cook, stirring occasionally, until the onions are caramelized, about 15 minutes. At the end, stir in 1/4 cup water and scrape up any browned bits.
 
 ## 4. Serve
 
