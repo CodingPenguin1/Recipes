@@ -1,6 +1,6 @@
 # Chicken Marsala
 
-![Chicken Marsala](https://github.com/CodingPenguin1/Recipes/blob/main/chicekn_marsala.png)
+![Chicken Marsala](https://github.com/CodingPenguin1/Recipes/blob/main/chicken_marsala.png)
 
 ## Info
 
